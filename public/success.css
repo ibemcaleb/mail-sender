@@ -7,11 +7,11 @@ body {
   justify-content: center;
   align-items: center;
   height: 70vh;
-  color: #333333;
+  color: #528;
 }
 
 a {
-  color: blue;
+  color: #528;
 }
 
 a:hover {

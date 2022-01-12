@@ -94,7 +94,7 @@ app.post("/", async (req, res) => {
               } else {
                 // Success block
                 console.log("Email sent: " + info.response);
-                return res.redirect("/");
+                return res.redirect("/success.html");
               }
             });
           } catch (error) {
